@@ -1,0 +1,19 @@
+PHISHING EMAIL INVESTIGATION
+Case ID: PHISH-001
+Classification: Simulated Training Evidence
+
+From: IT Support <security@company-verify.example>
+To: employee@company.example
+Subject: URGENT: Your Account Will Be Disabled
+Date: October 30, 2026
+
+Dear Employee,
+
+We detected unusual activity on your company account.
+
+You must verify your password within 30 minutes or your account will be permanently disabled.
+
+Please visit:
+https://company-verify.example/login
+
+IT Security Team
